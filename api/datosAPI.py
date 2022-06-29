@@ -24,4 +24,3 @@ def read():
         return jsonify(all_data), 200
     except Exception as e:
         return f"An Error Ocurred: {e}"
-
