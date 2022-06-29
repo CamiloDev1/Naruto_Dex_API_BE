@@ -1,5 +1,3 @@
-from distutils.log import debug
-
 from sqlalchemy import true
 from api import create_app
 
